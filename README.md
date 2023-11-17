@@ -1,0 +1,1 @@
+# Javascript1_parsovani_data
